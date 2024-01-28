@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Experienced full-stack developer with a 3-year track record, proficient in MERN stack and AI, adept at project development, optimisation, and management, complemented by a diverse portfolio of projects spanning machine learning, IoT, and more.
+Experienced full-stack developer with a proven track record, proficient in MERN stack and AI, adept at project development, optimization, and management, complemented by a diverse portfolio of projects spanning machine learning, IoT, and more.
 
 * 🌍  I'm based in Mumbai
 * 🖥️  See my portfolio at [Vaiz.me](http://Vaiz.me)
